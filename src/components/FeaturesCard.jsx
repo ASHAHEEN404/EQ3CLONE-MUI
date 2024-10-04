@@ -4,7 +4,7 @@ const FeaturesCard = () => {
   return (
     <div className="p-10">
       <Box sx={{ backgroundColor: "#FAFAFA", display: "flex", gap: "50px" }}>
-        <img className="max-w-[50%]" src="/src/assets/featurecard2.webp" />
+        <img className="max-w-[50%]" src="/assets/featurecard2.webp" />
         <Box
           sx={{
             display: "flex",
@@ -52,7 +52,7 @@ const FeaturesCard = () => {
           marginTop: "50px",
         }}
       >
-        <img className="max-w-[50%]" src="/src/assets/featruecard3.webp" />
+        <img className="max-w-[50%]" src="/assets/featruecard3.webp" />
         <Box
           sx={{
             display: "flex",
@@ -100,7 +100,7 @@ const FeaturesCard = () => {
           marginTop: "50px",
         }}
       >
-        <img className="max-w-[50%]" src="/src/assets/featurecard1.jpeg" />
+        <img className="max-w-[50%]" src="/assets/featurecard1.jpeg" />
         <Box
           sx={{
             display: "flex",

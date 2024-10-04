@@ -2,51 +2,51 @@ import { ImageList, ImageListItem, Typography } from "@mui/material";
 
 const itemData = [
   {
-    img: "/src/assets/image1.png",
+    img: "/assets/image1.png",
     title: "Ready to Ship Upholstery",
   },
   {
-    img: "/src/assets/image2.png",
+    img: "/assets/image2.png",
     title: "Dining",
   },
   {
-    img: "/src/assets/image3.png",
+    img: "/assets/image3.png",
     title: "Storage Beds",
   },
   {
-    img: "/src/assets/image4.png",
+    img: "/assets/image4.png",
     title: "Lighting",
   },
   {
-    img: "/src/assets/image5.png",
+    img: "/assets/image5.png",
     title: "Accent Tables",
   },
   {
-    img: "/src/assets/image6.png",
+    img: "/assets/image6.png",
     title: "Rugs",
   },
   {
-    img: "/src/assets/iamge7.png",
+    img: "/assets/iamge7.png",
     title: "Bar & Counter Stools",
   },
   {
-    img: "/src/assets/image8.png",
+    img: "/assets/image8.png",
     title: "Accent Stools",
   },
   {
-    img: "/src/assets/iamge9.png",
+    img: "/assets/iamge9.png",
     title: "Accessories",
   },
   {
-    img: "/src/assets/image10.png",
+    img: "/assets/image10.png",
     title: "Accent Chairs",
   },
   {
-    img: "/src/assets/image11.png",
+    img: "/assets/image11.png",
     title: "Outdoor",
   },
   {
-    img: "/src/assets/image12.png",
+    img: "/assets/image12.png",
     title: "Media & Storage",
   },
 ];

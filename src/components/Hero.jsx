@@ -5,11 +5,7 @@ const Hero = () => {
     <div className="relative p-7">
       {" "}
       {/* Added "relative" to the div for positioning */}
-      <img
-        className="w-full h-auto"
-        src="/src/assets/heroImage.jpeg"
-        alt="Hero"
-      />
+      <img className="w-full h-auto" src="/assets/heroImage.jpeg" alt="Hero" />
       {/* Overlay Box */}
       <Box
         sx={{
